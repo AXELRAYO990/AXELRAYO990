@@ -15,7 +15,7 @@
 ---
 
 ### 📫 Contact Me
-- Discord: `AXELRAY#0990`
+- Discord: `axelrayo990`
 - LinkedIn: https://www.linkedin.com/in/axel-pinelo-066516289/
 - Portfolio: [https://noxlabs-cdd33.web.app](https://noxlabs-cdd33.web.app)
 
